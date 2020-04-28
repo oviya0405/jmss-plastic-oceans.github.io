@@ -21,6 +21,10 @@ h5 {
 	font-weight: bold;
 }
 
+.footer {
+	background-color:rgb(1,1,77);
+}
+
 .footer-row {
 	margin:3px;
 }
