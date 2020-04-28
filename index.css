@@ -4,6 +4,11 @@ body {
 
 }
 
+svg:hover {
+	opacity:0.5;
+	background-color: orange;
+}
+
 .logopic {
 	text-align: center;
 }
